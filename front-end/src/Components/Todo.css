@@ -1,0 +1,18 @@
+.todo {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.todo_card_cardContent_topline {
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo_card_cardContent_bottomline {
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: column wrap;
+}
+

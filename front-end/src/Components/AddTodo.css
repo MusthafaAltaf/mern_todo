@@ -1,0 +1,16 @@
+.add_todo {
+    display: flex;
+}
+
+.add_todo_title {
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+.add_todo_description {
+    margin-right: 40px;
+}
+
+.add_todo_button {
+    margin-right: 50px;
+}
